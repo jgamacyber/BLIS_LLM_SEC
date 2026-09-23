@@ -33,7 +33,7 @@ python 01_goal_hijacking.py            # veja o README de cada pasta
 
 ## Configuração da API
 
-Os experimentos usam a [OpenRouter](https://openrouter.ai/) como gateway (compatível com o SDK da OpenAI). Copie `.env.example` para `.env` em cada projeto e preencha:
+Os experimentos usam a [OpenRouter](https://openrouter.ai/) como gateway (compatível com o SDK da OpenAI). Preencha o .env
 
 ```
 OPENROUTER_API_KEY=sua_chave_aqui
