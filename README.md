@@ -41,7 +41,6 @@ OPENROUTER_API_KEY=sua_chave_aqui
 
 O modelo padrão usado nos testes foi `openai/gpt-4o-mini` (barato para experimentação de segurança).
 
-> 🔒 O arquivo `.env` está no `.gitignore` e **nunca** deve ser commitado. Só o `.env.example` (sem chave real) vai para o repositório.
 
 ## Papers
 
