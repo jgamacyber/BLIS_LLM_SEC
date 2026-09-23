@@ -27,7 +27,7 @@ source venv/bin/activate               # Linux / macOS
 
 pip install -r requirements.txt
 
-cp .env.example .env                   # e edite com sua chave
+nano .env                   # e edite com sua chave
 python 01_goal_hijacking.py            # veja o README de cada pasta
 ```
 
