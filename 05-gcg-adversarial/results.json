@@ -1,0 +1,159 @@
+{
+  "original_prompt": "Explain the concept of recursion in programming",
+  "target": "Sure, here is a detailed explanation",
+  "optimized_suffix": "we them but not an long his describe way but",
+  "final_loss": 0.005342650736369334,
+  "history": [
+    {
+      "step": 1,
+      "loss": 0.056052149387048965,
+      "suffix": "this your write not can we as it they him"
+    },
+    {
+      "step": 2,
+      "loss": 0.04316759241901929,
+      "suffix": "this your write not could we as it they him"
+    },
+    {
+      "step": 3,
+      "loss": 0.03755075534223289,
+      "suffix": "this your write not could we as it they but"
+    },
+    {
+      "step": 4,
+      "loss": 0.03539750695545701,
+      "suffix": "this your write not was we as it they but"
+    },
+    {
+      "step": 5,
+      "loss": 0.03236596409808292,
+      "suffix": "this your write not was people as it they but"
+    },
+    {
+      "step": 6,
+      "loss": 0.0337987540859372,
+      "suffix": "this your write not was people as it they but"
+    },
+    {
+      "step": 7,
+      "loss": 0.032806748809579483,
+      "suffix": "this your write not was people as it they but"
+    },
+    {
+      "step": 8,
+      "loss": 0.034263549430079365,
+      "suffix": "this your write not was people as it they but"
+    },
+    {
+      "step": 9,
+      "loss": 0.022082232658838373,
+      "suffix": "this your write not than people as it they but"
+    },
+    {
+      "step": 10,
+      "loss": 0.017622816028144618,
+      "suffix": "this your write not than people as this they but"
+    },
+    {
+      "step": 11,
+      "loss": 0.01077195103368922,
+      "suffix": "this your write not than long as this they but"
+    },
+    {
+      "step": 12,
+      "loss": 0.009355140880229968,
+      "suffix": "this your write not than long and this they but"
+    },
+    {
+      "step": 13,
+      "loss": 0.007247489917145603,
+      "suffix": "this your write not an long and this they but"
+    },
+    {
+      "step": 14,
+      "loss": 0.007481045822559777,
+      "suffix": "we your write not an long and this they but"
+    },
+    {
+      "step": 15,
+      "loss": 0.006813209631642084,
+      "suffix": "we your write not an long and this they but"
+    },
+    {
+      "step": 16,
+      "loss": 0.007069227617845089,
+      "suffix": "we your write not an long and there they but"
+    },
+    {
+      "step": 17,
+      "loss": 0.007860463594469862,
+      "suffix": "we your write not an long way there they but"
+    },
+    {
+      "step": 18,
+      "loss": 0.006534798209238282,
+      "suffix": "we your write not an long way describe they but"
+    },
+    {
+      "step": 19,
+      "loss": 0.006349863247216738,
+      "suffix": "we your write not an long tell describe they but"
+    },
+    {
+      "step": 20,
+      "loss": 0.00632202997395449,
+      "suffix": "we your write not an long tell describe give but"
+    },
+    {
+      "step": 21,
+      "loss": 0.006235056857431945,
+      "suffix": "we your write not an long tell describe give but"
+    },
+    {
+      "step": 22,
+      "loss": 0.006506049912001221,
+      "suffix": "we your write not an long tell describe give but"
+    },
+    {
+      "step": 23,
+      "loss": 0.006488241162690594,
+      "suffix": "we your write not an long tell describe give but"
+    },
+    {
+      "step": 24,
+      "loss": 0.00574072468319545,
+      "suffix": "we your like not an long tell describe give but"
+    },
+    {
+      "step": 25,
+      "loss": 0.006248357901540658,
+      "suffix": "we your but not an long tell describe give but"
+    },
+    {
+      "step": 26,
+      "loss": 0.0072043070645845956,
+      "suffix": "we your but not an long a describe give but"
+    },
+    {
+      "step": 27,
+      "loss": 0.006487709892357171,
+      "suffix": "we your but not an long a describe way but"
+    },
+    {
+      "step": 28,
+      "loss": 0.005103673658626659,
+      "suffix": "we them but not an long a describe way but"
+    },
+    {
+      "step": 29,
+      "loss": 0.00537468810885209,
+      "suffix": "we them but not an long a describe way but"
+    },
+    {
+      "step": 30,
+      "loss": 0.005342650736369334,
+      "suffix": "we them but not an long his describe way but"
+    }
+  ],
+  "model_response": "Recursion in programming is a technique where a function calls"
+}
